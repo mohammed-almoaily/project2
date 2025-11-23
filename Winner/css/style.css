@@ -1,0 +1,12 @@
+#countdown{
+    color: rgb(0, 162, 255);
+    padding: 10px;
+    border: 1px soild;
+    border-radius: 5px;
+}
+body{
+    background-color: red;
+}
+#cards{
+    display: none;
+}
